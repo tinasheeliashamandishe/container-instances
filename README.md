@@ -20,7 +20,7 @@ Create a  Azure Container Instance resource<br/>
 
 <h4>Step 2</h4> 
 Choose where to get your image.<br/>
-Here, I will select an image in my azure registry.<br/>
+Here, I will select an image in my azure container registry.<br/>
 <img src="https://i.imgur.com/mn6wia3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <img src="https://i.imgur.com/xo4jO5b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <br />
